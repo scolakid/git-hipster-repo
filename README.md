@@ -1,1 +1,1 @@
-# hipster-repo
+# git-hipster-repo-01
